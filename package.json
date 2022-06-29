@@ -2,24 +2,29 @@
   "dependencies": {
     "boxen": "^7.0.0",
     "chalk": "^4.1.0",
-    "chalk-rainbow": "^1.0.0",
-    "consola": "^2.15.3",
+    "chalk-animation": "^2.0.2",
     "log-symbols": "^5.1.0",
     "moment": "^2.29.3",
     "node-fetch": "^2.6.1",
-    "ora": "^6.1.0",
-    "readline-sync": "^1.4.10",
-    "terminal-link": "^3.0.0"
+    "readline-sync": "^1.4.10"
   },
-  "name": "stumble3",
+  "name": "stumble4",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eskeyz/JS3.git"
   },
   "keywords": [],
-  "author": "Eskeyz",
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eskeyz/JS3/issues"
+  },
+  "homepage": "https://github.com/Eskeyz/JS3#readme",
   "description": ""
 }
